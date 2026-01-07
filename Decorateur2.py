@@ -60,7 +60,7 @@ def chrono(func):
 #--------------------------
 def repetition(n_fois):
     """ 
-    repetition est un décorateur qui exécute une fonction n_fois et affiche la moyenne du temps
+    repetition est un décorateur qui exécute une fonction n_fois et affiche le temps moyen
     
     Args :
         n_fois: le nombre de fois à répéter l'exécution
